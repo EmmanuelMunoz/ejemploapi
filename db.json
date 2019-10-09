@@ -1,0 +1,27 @@
+{
+"Clientes":[
+    {
+        "idCliente": 1,
+        "nombres": "Emmanuel",
+        "apellido": "Muñoz",
+        "adeudo": 965,
+        "idTiket": 12
+    },
+    {
+        "idCliente": 2,
+        "nombres": "Cesar",
+        "apellido": "Blanco",
+        "adeudo": 99.99,
+        "idTiket": 13
+    }
+],
+"Transacciones":[
+    {
+        "idTransaccion": 1,
+        "IngresoEfectivo": true,
+        "SalidaEfectivo": null,
+        "Cantidad": 500
+        
+    }
+] 
+}
