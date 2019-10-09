@@ -18,8 +18,7 @@
 "Transacciones":[
     {
         "idTransaccion": 1,
-        "IngresoEfectivo": true,
-        "SalidaEfectivo": null,
+        "TipoTransaccion": "ingreso",
         "Cantidad": 500
         
     }
