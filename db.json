@@ -21,6 +21,12 @@
         "TipoTransaccion": "ingreso",
         "Cantidad": 500
         
+    },
+    {
+        "idTransaccion": 2,
+        "TipoTransaccion": "salida",
+        "Cantidad": -30
+        
     }
 ] 
 }
