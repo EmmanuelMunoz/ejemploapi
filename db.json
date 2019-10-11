@@ -27,6 +27,66 @@
         "TipoTransaccion": "salida",
         "Cantidad": -30
         
+    },
+     {
+        "idTransaccion": 1,
+        "TipoTransaccion": "ingreso",
+        "Cantidad": 500
+        
+    },
+    {
+        "idTransaccion": 3,
+        "TipoTransaccion": "salida",
+        "Cantidad": -30
+        
+    },
+     {
+        "idTransaccion": 4,
+        "TipoTransaccion": "ingreso",
+        "Cantidad": 500
+        
+    },
+    {
+        "idTransaccion": 5,
+        "TipoTransaccion": "salida",
+        "Cantidad": -30
+        
+    },
+     {
+        "idTransaccion": 6,
+        "TipoTransaccion": "ingreso",
+        "Cantidad": 500
+        
+    },
+    {
+        "idTransaccion": 7,
+        "TipoTransaccion": "salida",
+        "Cantidad": -30
+        
+    },
+     {
+        "idTransaccion": 8,
+        "TipoTransaccion": "ingreso",
+        "Cantidad": 500
+        
+    },
+    {
+        "idTransaccion": 9,
+        "TipoTransaccion": "salida",
+        "Cantidad": -30
+        
+    },
+     {
+        "idTransaccion": 10,
+        "TipoTransaccion": "ingreso",
+        "Cantidad": 500
+        
+    },
+    {
+        "idTransaccion": 11,
+        "TipoTransaccion": "salida",
+        "Cantidad": -30
+        
     }
 ] 
 }
