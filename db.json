@@ -19,73 +19,88 @@
     {
         "idTransaccion": 1,
         "TipoTransaccion": "ingreso",
-        "Cantidad": 500
+        "Cantidad": 500,
+        "Fecha": "10/09/2019"
         
     },
     {
         "idTransaccion": 2,
         "TipoTransaccion": "salida",
-        "Cantidad": -30
+        "Cantidad": -30,
+        "Fecha": "11/10/2019"
         
     },
      {
         "idTransaccion": 1,
         "TipoTransaccion": "ingreso",
-        "Cantidad": 500
+        "Cantidad": 500,
+         "Fecha": "03/10/2019"
         
     },
     {
         "idTransaccion": 3,
         "TipoTransaccion": "salida",
-        "Cantidad": -30
+        "Cantidad": -30,
+        "Fecha": "05/10/2019"
+
+        
         
     },
      {
         "idTransaccion": 4,
         "TipoTransaccion": "ingreso",
-        "Cantidad": 500
+        "Cantidad": 500,
+        "Fecha": "03/10/2019"
+
         
     },
     {
         "idTransaccion": 5,
         "TipoTransaccion": "salida",
-        "Cantidad": -30
+        "Cantidad": -30,
+        "Fecha": "03/10/2019"
         
     },
      {
         "idTransaccion": 6,
         "TipoTransaccion": "ingreso",
-        "Cantidad": 500
+        "Cantidad": 500,
+        "Fecha": "03/10/2019"
         
     },
     {
         "idTransaccion": 7,
         "TipoTransaccion": "salida",
-        "Cantidad": -30
+        "Cantidad": -30,
+        "Fecha": "15/10/2019"
         
     },
      {
         "idTransaccion": 8,
         "TipoTransaccion": "ingreso",
-        "Cantidad": 500
+        "Cantidad": 500,
+         "Fecha": "15/10/2019"
         
     },
     {
         "idTransaccion": 9,
         "TipoTransaccion": "salida",
-        "Cantidad": -30
+        "Cantidad": -30,
+        "Fecha": "18/10/2019"
         
     },
      {
         "idTransaccion": 10,
         "TipoTransaccion": "ingreso",
-        "Cantidad": 500
+        "Cantidad": 500,
+         "Fecha": "18/10/2019"
         
     },
     {
         "idTransaccion": 11,
         "TipoTransaccion": "salida",
-        "Cantidad": -30
+        "Cantidad": -30,
+        "Fecha": "03/10/2019"
         
     }
 ] 
