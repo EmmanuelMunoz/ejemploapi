@@ -5,14 +5,24 @@
         "nombres": "Emmanuel",
         "apellido": "Muñoz",
         "adeudo": 965,
-        "idTiket": 12
+        "idTiket": 12,
+        "foto": "https://d500.epimg.net/cincodias/imagenes/2016/07/04/lifestyle/1467646262_522853_1467646344_noticia_normal.jpg"
     },
     {
         "idCliente": 2,
         "nombres": "Cesar",
         "apellido": "Blanco",
         "adeudo": 99.99,
-        "idTiket": 13
+        "idTiket": 13,
+        "foto": ""
+    },
+    {
+        "idCliente": 2,
+        "nombres": "Cesar",
+        "apellido": "Blanco",
+        "adeudo": 99.99,
+        "idTiket": 14,
+        "foto": ""
     }
 ],
 "Transacciones":[
