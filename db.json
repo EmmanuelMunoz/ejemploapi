@@ -84,34 +84,12 @@
         "Cantidad": -30,
         "Fecha": "15/10/2019"
         
-    },
-     {
-        "idTransaccion": 8,
-        "TipoTransaccion": "ingreso",
-        "Cantidad": 500,
-         "Fecha": "15/10/2019"
-        
-    },
-    {
-        "idTransaccion": 9,
-        "TipoTransaccion": "salida",
-        "Cantidad": -30,
-        "Fecha": "18/10/2019"
-        
-    },
-     {
-        "idTransaccion": 10,
-        "TipoTransaccion": "ingreso",
-        "Cantidad": 500,
-         "Fecha": "18/10/2019"
-        
-    },
-    {
-        "idTransaccion": 11,
-        "TipoTransaccion": "salida",
-        "Cantidad": -30,
-        "Fecha": "03/10/2019"
-        
     }
-] 
+],
+    "Proveedores"[
+    "idProveedor": 1,
+    "nombre": "Amazon",
+    "imagen": "https://d500.epimg.net/cincodias/imagenes/2016/07/04/lifestyle/1467646262_522853_1467646344_noticia_normal.jpg",
+    "monto": 900
+    ]
 }
