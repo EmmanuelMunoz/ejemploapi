@@ -97,5 +97,13 @@
     "imagen": "",
     "monto": 900
     }    
+    ],
+    "peticiones":[
+    {
+    "nombre": "jesus"    
+    },
+    {
+    "nombre": "Armaldo"
+    }    
     ]
 }
