@@ -19,7 +19,23 @@
     {
         "idCliente": 2,
         "nombres": "Cesar",
-        "apellido": "Blanco",
+        "apellido": "Moreno",
+        "adeudo": 99.99,
+        "idTiket": 14,
+        "foto": ""
+    },
+    {
+        "idCliente": 2,
+        "nombres": "Jesus",
+        "apellido": "Negrete",
+        "adeudo": 99.99,
+        "idTiket": 14,
+        "foto": ""
+    },
+    {
+        "idCliente": 2,
+        "nombres": "Emmanuel",
+        "apellido": "Moreno",
         "adeudo": 99.99,
         "idTiket": 14,
         "foto": ""
