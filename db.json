@@ -9,7 +9,7 @@
         "foto": "https://d500.epimg.net/cincodias/imagenes/2016/07/04/lifestyle/1467646262_522853_1467646344_noticia_normal.jpg"
     },
     {
-        "idCliente": 2,
+        "idCliente": 3,
         "nombres": "Cesar",
         "apellido": "Blanco",
         "adeudo": 99.99,
@@ -17,7 +17,7 @@
         "foto": ""
     },
     {
-        "idCliente": 2,
+        "idCliente": 4,
         "nombres": "Cesar",
         "apellido": "Moreno",
         "adeudo": 99.99,
@@ -25,7 +25,7 @@
         "foto": ""
     },
     {
-        "idCliente": 2,
+        "idCliente": 5,
         "nombres": "Jesus",
         "apellido": "Negrete",
         "adeudo": 99.99,
@@ -33,7 +33,7 @@
         "foto": ""
     },
     {
-        "idCliente": 2,
+        "idCliente": 6,
         "nombres": "Emmanuel",
         "apellido": "Moreno",
         "adeudo": 99.99,
