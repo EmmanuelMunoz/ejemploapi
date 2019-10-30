@@ -47,59 +47,54 @@
         "TipoTransaccion": "ingreso",
         "Cantidad": 500,
         "Fecha": "10/09/2019"
-        
     },
     {
-        "idTransaccion": 2,
+        "idTransaccion": 66,
+        "TipoTransaccion": "ingreso",
+        "Cantidad": 500,
+        "Fecha": "02/09/2019"
+    },
+    {
+        "idTransaccion": 24,
         "TipoTransaccion": "salida",
         "Cantidad": -300,
         "Fecha": "11/10/2019"
-        
     },
      {
-        "idTransaccion": 1,
+        "idTransaccion": 15,
         "TipoTransaccion": "ingreso",
         "Cantidad": 500,
          "Fecha": "03/10/2019"
-        
     },
     {
         "idTransaccion": 3,
         "TipoTransaccion": "salida",
         "Cantidad": -30,
         "Fecha": "05/10/2019"
-
-        
-        
     },
      {
         "idTransaccion": 4,
         "TipoTransaccion": "ingreso",
         "Cantidad": 500,
         "Fecha": "03/10/2019"
-
-        
     },
     {
         "idTransaccion": 5,
         "TipoTransaccion": "salida",
         "Cantidad": -30,
         "Fecha": "03/10/2019"
-        
     },
      {
         "idTransaccion": 6,
         "TipoTransaccion": "ingreso",
         "Cantidad": 500,
         "Fecha": "03/10/2019"
-        
     },
     {
         "idTransaccion": 7,
         "TipoTransaccion": "salida",
         "Cantidad": -30,
         "Fecha": "15/10/2019"
-        
     }
 ],
     "Proveedores":[
