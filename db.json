@@ -3,7 +3,8 @@
     {
         "idCliente": 1,
         "nombres": "Emmanuel",
-        "apellido": "Muñoz",
+        "apellidoPaterno": "Muñoz",
+        "apellidoMaterno": "Calderon",
         "adeudo": 965,
         "idTiket": 12,
         "foto": "https://d500.epimg.net/cincodias/imagenes/2016/07/04/lifestyle/1467646262_522853_1467646344_noticia_normal.jpg"
@@ -12,6 +13,7 @@
         "idCliente": 3,
         "nombres": "Cesar",
         "apellido": "Blanco",
+        "apellidoMaterno": "Rodriguez",
         "adeudo": 99.99,
         "idTiket": 13,
         "foto": ""
@@ -20,6 +22,7 @@
         "idCliente": 4,
         "nombres": "Cesar",
         "apellido": "Moreno",
+        "apellidoMaterno": "Martinez",
         "adeudo": 99.99,
         "idTiket": 14,
         "foto": ""
@@ -28,6 +31,7 @@
         "idCliente": 5,
         "nombres": "Jesus",
         "apellido": "Negrete",
+        "apellidoMaterno": "Diaz",
         "adeudo": 99.99,
         "idTiket": 14,
         "foto": ""
@@ -36,6 +40,7 @@
         "idCliente": 6,
         "nombres": "Emmanuel",
         "apellido": "Moreno",
+        "apellidoMaterno": "Rocha",
         "adeudo": 99.99,
         "idTiket": 14,
         "foto": ""
