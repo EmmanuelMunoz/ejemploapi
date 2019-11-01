@@ -12,7 +12,7 @@
     {
         "idCliente": 3,
         "nombres": "Cesar",
-        "apellido": "Blanco",
+        "apellidoPaterno": "Blanco",
         "apellidoMaterno": "Rodriguez",
         "adeudo": 99.99,
         "idTiket": 13,
@@ -21,7 +21,7 @@
     {
         "idCliente": 4,
         "nombres": "Cesar",
-        "apellido": "Moreno",
+        "apellidoPaterno": "Moreno",
         "apellidoMaterno": "Martinez",
         "adeudo": 99.99,
         "idTiket": 14,
@@ -30,7 +30,7 @@
     {
         "idCliente": 5,
         "nombres": "Jesus",
-        "apellido": "Negrete",
+        "apellidoPaterno": "Negrete",
         "apellidoMaterno": "Diaz",
         "adeudo": 99.99,
         "idTiket": 14,
@@ -39,7 +39,7 @@
     {
         "idCliente": 6,
         "nombres": "Emmanuel",
-        "apellido": "Moreno",
+        "apellidoPaterno": "Moreno",
         "apellidoMaterno": "Rocha",
         "adeudo": 99.99,
         "idTiket": 14,
