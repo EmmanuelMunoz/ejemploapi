@@ -51,13 +51,13 @@
         "idTransaccion": 1,
         "TipoTransaccion": "ingreso",
         "Cantidad": 500,
-        "Fecha": "10/09/2019"
+        "Fecha": "10/10/2019"
     },
     {
         "idTransaccion": 66,
         "TipoTransaccion": "ingreso",
         "Cantidad": 500,
-        "Fecha": "02/09/2019"
+        "Fecha": "02/10/2019"
     },
     {
         "idTransaccion": 24,
