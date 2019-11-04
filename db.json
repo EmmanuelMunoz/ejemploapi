@@ -44,6 +44,33 @@
         "adeudo": 99.99,
         "idTiket": 14,
         "foto": ""
+    },
+    {
+        "idCliente": 7,
+        "nombres": "Octavio",
+        "apellidoPaterno": "Arreola",
+        "apellidoMaterno": "Hernandez",
+        "adeudo": 99.99,
+        "idTiket": 14,
+        "foto": ""
+    },
+    {
+        "idCliente": 8,
+        "nombres": "Jahir",
+        "apellidoPaterno": "Leal",
+        "apellidoMaterno": "Perez",
+        "adeudo": 99.99,
+        "idTiket": 14,
+        "foto": ""
+    },
+    {
+        "idCliente": 9,
+        "nombres": "Rick",
+        "apellidoPaterno": "Sanchez",
+        "apellidoMaterno": "",
+        "adeudo": 99.99,
+        "idTiket": 14,
+        "foto": ""
     }
 ],
 "Transacciones":[
